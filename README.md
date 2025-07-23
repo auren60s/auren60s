@@ -1,5 +1,5 @@
 <h1 align="center">👾 auren60s 👾</h1>
-<p align="center"><i>Powered by Code</i></p>
+<p align="center"><i>Powered by Fesnuk/i></p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/nmRTCS8X0b5F4HWJhI/giphy.gif" alt="Scroll FESNUK" width="100%" />
