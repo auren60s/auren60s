@@ -1,15 +1,10 @@
-<h1 align="center">👾 auren60s 👾</h1>
-<p align="center"><i>Powered by Fesnuk</i></p>
+<h1 align="center">👾 Auren Calrithen GodFrey'S 👾</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/nmRTCS8X0b5F4HWJhI/giphy.gif" alt="Scroll FESNUK" width="100%" />
 </p>
 
----
-## 🥀one quote from me
----
-> *"Daripada ngoding butuh logika, Mending scroll **FESNUK.**"*
----
+
 
 ## 🧠 Skill
 <p align="center">
